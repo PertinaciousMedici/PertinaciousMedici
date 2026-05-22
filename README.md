@@ -51,11 +51,11 @@
 ### competitive programming
 - 🏆 **[calafite @ codeforces](https://codeforces.com/profile/calafite)**
 - 💻 **[calafite @ topcoder](https://www.topcoder.com/members/calafite)**
-- 🐐 **[PertinaciousMedici @ codewars](https://www.codewars.com/users/PertinaciousMedici)**
+- 🐐 **[pertinaciousmedici @ codewars](https://www.codewars.com/users/PertinaciousMedici)**
 ### reach me
 - ✉️ **[walter.linhares@academico.ufpb.br](mailto:walter.linhares@academico.ufpb.br)**
 ### about me
-- 🏛️ **cs @ ufpb** - universidade federal da paraíba
+- 🏛️ **cs undergrad @ ufpb** - universidade federal da paraíba
 - ⚛️ **member @ quasar** - quantum software applications research league
 
 ### github stats
