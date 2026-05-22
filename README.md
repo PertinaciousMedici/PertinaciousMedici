@@ -57,6 +57,3 @@
 ### about me
 - 🏛️ **cs undergrad @ ufpb** - universidade federal da paraíba
 - ⚛️ **member @ quasar** - quantum software applications research league
-
-### github stats
-[![my stats](https://github-readme-stats.vercel.app/api?username=pertinaciousmedici)](https://github.com/pertinaciousmedici/github-readme-stats)
