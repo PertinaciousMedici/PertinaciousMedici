@@ -32,7 +32,7 @@
   <tr>
     <td align="center" width="33%">
       <b>rust</b><br>
-      <sub>my passion</sub><br>
+      <sub>peak</sub><br>
       <code>●●●○○</code>
     </td>
     <td align="center" width="33%">
