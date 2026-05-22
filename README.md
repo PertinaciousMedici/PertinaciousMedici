@@ -16,34 +16,34 @@
     <td align="center" width="33%">
       <b>python</b><br>
       <sub>great at it</sub><br>
-      <code>██████████</code>
+      <code>●●●●●</code>
     </td>
     <td align="center" width="33%">
       <b>js</b><br>
       <sub>pos lang</sub><br>
-      <code>██████████</code>
+      <code>●●●●●</code>
     </td>
     <td align="center" width="33%">
       <b>c/c++</b><br>
       <sub>awesome</sub><br>
-      <code>█████████░</code>
+      <code>●●●●○</code>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <b>rust</b><br>
-      <sub>love of my life</sub><br>
-      <code>███████░░░</code>
+      <sub>my passion</sub><br>
+      <code>●●●○○</code>
     </td>
     <td align="center" width="33%">
       <b>go</b><br>
       <sub>goated</sub><br>
-      <code>███████░░░</code>
+      <code>●●●○○</code>
     </td>
     <td align="center" width="33%">
       <b>haskell</b><br>
       <sub>peak</sub><br>
-      <code>███░░░░░░░</code>
+      <code>●○○○○</code>
     </td>
   </tr>
 </table>
