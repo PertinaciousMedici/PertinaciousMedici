@@ -24,7 +24,7 @@
       <code>██████████</code>
     </td>
     <td align="center" width="33%">
-      <b>C/c++</b><br>
+      <b>c/c++</b><br>
       <sub>awesome</sub><br>
       <code>█████████░</code>
     </td>
