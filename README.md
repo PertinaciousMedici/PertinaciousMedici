@@ -59,4 +59,4 @@
 - ⚛️ **member @ quasar** - quantum software applications research league
 
 ### github stats
-<img src="https://github-readme-stats.vercel.app/api?username=pertinaciousmedici&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=888&text_color=888&icon_color=888" alt="GitHub stats" style="max-width:100%; border-radius: 8px;" />
+[![my stats](https://github-readme-stats.vercel.app/api?username=pertinaciousmedici)](https://github.com/pertinaciousmedici/github-readme-stats)
